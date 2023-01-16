@@ -8,9 +8,9 @@
 ![image](https://user-images.githubusercontent.com/97522726/212629163-ecee6fc8-7adc-40fd-ab9b-cc467532641c.png)
 ![image](https://user-images.githubusercontent.com/97522726/212629190-fd53808a-2969-43bd-8951-9d5cf7aa373f.png)
 ![image](https://user-images.githubusercontent.com/97522726/212629233-5d79df21-deea-40aa-ad12-1466495daf9f.png)
-그 외 [알빠ppt .pptx](https://github.com/SoftWareEZ/README/files/10423753/ppt.pptx)
+[더보기](https://github.com/SoftWareEZ/README/files/10423753/ppt.pptx)
 
 
-[클라이언트](https://github.com/SoftWareEZ/Client) 김민지(https://github.com/iamingji) 문예주(https://github.com/moonyeju) 조유정(https://github.com/hiyoojeong)
+[<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>](https://github.com/SoftWareEZ/Client) [김민지](https://github.com/iamingji) [문예주](https://github.com/moonyeju) [조유정](https://github.com/hiyoojeong)
 
-[서버](https://github.com/SoftWareEZ/server2) 김민주(https://github.com/miiiinju) 신혜민(https://github.com/heymin2) 안수진(https://github.com/ssuzyn) 
+[<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>](https://github.com/SoftWareEZ/server2) [김민주](https://github.com/miiiinju) [신혜민](https://github.com/heymin2) [안수진](https://github.com/ssuzyn) 
