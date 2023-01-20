@@ -11,6 +11,6 @@
 [더보기](https://github.com/SoftWareEZ/README/files/10423753/ppt.pptx)
 
 
-[<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>](https://github.com/SoftWareEZ/Client) [김민지](https://github.com/iamingji) [문예주](https://github.com/moonyeju) [조유정](https://github.com/hiyoojeong)
+<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>[Client](https://github.com/SoftWareEZ/Client) [김민지](https://github.com/iamingji) [문예주](https://github.com/moonyeju) [조유정](https://github.com/hiyoojeong)
 
-[<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>](https://github.com/SoftWareEZ/server2) [김민주](https://github.com/miiiinju) [신혜민](https://github.com/heymin2) [안수진](https://github.com/ssuzyn) 
+<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>[Server](https://github.com/SoftWareEZ/server2) [김민주](https://github.com/miiiinju) [신혜민](https://github.com/heymin2) [안수진](https://github.com/ssuzyn) 
