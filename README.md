@@ -10,10 +10,10 @@
 ![image](https://user-images.githubusercontent.com/97522726/212629233-5d79df21-deea-40aa-ad12-1466495daf9f.png)
 [더보기](https://github.com/SoftWareEZ/README/files/10423753/ppt.pptx)
 
-#### main logo
+#### 메인 로고
 <img width="40%" src="https://user-images.githubusercontent.com/97781412/217320892-4057c65a-1a44-466b-b3be-2a916c6988f3.png"/>
 
-#### loading screen
+#### 로딩 화면
 <img width="40%" src="https://user-images.githubusercontent.com/97781412/217320900-d8db42e2-c0b7-47de-9c3e-abc03c10f914.png"/>
 
 <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>[Client](https://github.com/SoftWareEZ/Client) [김민지](https://github.com/iamingji) [문예주](https://github.com/moonyeju) [조유정](https://github.com/hiyoojeong)
